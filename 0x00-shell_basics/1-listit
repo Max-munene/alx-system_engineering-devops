@@ -2,4 +2,4 @@
 ls 
 git add .
 git commit -m "list commit"
-git push"\n"
+git push \n
