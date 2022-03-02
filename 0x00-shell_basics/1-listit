@@ -1,5 +1,2 @@
 #!/bin/bash
-ls 
-git add .
-git commit -m "list commit"
-git push \n
+ls
